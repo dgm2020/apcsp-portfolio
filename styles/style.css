@@ -1,0 +1,13 @@
+h1 {
+  color: black;
+  background-color: magenta;
+  border: 1px red;
+}
+
+p {
+  color: royalblue;
+}
+p {
+    font-family: Comic;
+    font-size: 20px;
+} 
