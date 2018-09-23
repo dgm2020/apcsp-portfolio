@@ -1,0 +1,18 @@
+h1 {
+  color: lightblue;
+  background-color: magenta;
+  border: 1px red;
+}
+
+p {
+  color: magenta;
+}
+p {
+    font-family: Comic;
+    font-size: 20px;
+} 
+h2 {
+  color: magenta;
+  background-color: lightblue;
+  border: 1px red;
+}

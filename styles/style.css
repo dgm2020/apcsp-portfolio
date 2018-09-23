@@ -1,13 +1,55 @@
 h1 {
-  color: black;
+  color: lightblue;
   background-color: magenta;
   border: 1px red;
 }
 
 p {
-  color: royalblue;
+  color: magenta;
 }
 p {
     font-family: Comic;
     font-size: 20px;
 } 
+h2 {
+  color: magenta;
+  background-color: lightblue;
+  border: 1px red;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: magenta;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+h2.a {
+    font-style: italic;
+}
+h1.a {
+    font-style: italic;
+}
+
+h1.b {
+    font-style: italic;
+}
